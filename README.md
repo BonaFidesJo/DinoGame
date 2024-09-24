@@ -2,7 +2,7 @@
 
 HTML, CSS, JS
 
-### Небольшая игра-таймкиллер:
+### Небольшая игра-тайм киллер:
 
 [Demo](https://bonafidesjo.github.io/DinoGame/)
 
